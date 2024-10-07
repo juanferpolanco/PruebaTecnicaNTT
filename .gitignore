@@ -6,8 +6,6 @@
 
 # Visual Studio files
 .vs/
-*.sln
-*.user
 *.userosscache
 *.suo
 *.sln.docstates
