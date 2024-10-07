@@ -1,0 +1,75 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Visual Studio files
+.vs/
+*.sln
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/*.ps1
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Runtime artifacts
+*.exe
+*.dll
+*.pdb
+*.db
+*.mdb
+*.log
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# Other files
+*.vspscc
+*.vssscc
+*.scc
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pdb
+*.sln.ide
+*.sln.docstates
+*.dotcover
+
+# Build directory
+build/
+
+# Azure Functions
+bin/
+obj/
+local.settings.json
+
+# User secrets
+secrets.json
+
+# Docker files
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Test results
+TestResults/
+*.trx
+*.testsettings

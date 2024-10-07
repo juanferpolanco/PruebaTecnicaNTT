@@ -1,0 +1,6 @@
+@TransaccionesNTT_HostAddress = http://localhost:5104
+
+GET {{TransaccionesNTT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

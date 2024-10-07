@@ -1,0 +1,6 @@
+@MovimientosNTT_HostAddress = http://localhost:5202
+
+GET {{MovimientosNTT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
